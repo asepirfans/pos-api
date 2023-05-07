@@ -9,6 +9,8 @@
   "author": "Awans",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/debug-agent": "^3.2.0",
+    "@google-cloud/storage": "^2.4.2",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
